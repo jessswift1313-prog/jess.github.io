@@ -27,8 +27,6 @@ This project implements core image processing operations from first principles i
 
 The goal is to develop a clear understanding of how classical computer vision methods operate at the implementation level.
 
----
-
 ## Features
 
 - Image loading and preprocessing pipeline
@@ -37,16 +35,12 @@ The goal is to develop a clear understanding of how classical computer vision me
 - Basic feature extraction methods
 - Structured pipeline for sequential image transformations
 
----
-
 ## Technical Stack
 
 - C++17
 - Standard Template Library (STL)
 - Optional: OpenCV (if applicable)
 - CMake (if applicable)
-
----
 
 ## Example Results
 
