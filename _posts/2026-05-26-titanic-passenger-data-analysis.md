@@ -27,7 +27,6 @@ This project investigates how different factors such as gender, age group, embar
 
 # Project Structure
 
-```text
 Titanic/
 ├── data/
 │   └── Titanic.csv
@@ -47,7 +46,6 @@ Titanic/
 ├── REPORT_EN.ipynb
 ├── REPORT_FR.ipynb
 └── running.ipynb
-```
 
 ---
 
