@@ -93,7 +93,7 @@ The analysis investigates how ticket class influenced survival probability.
 
 <div>
 
-<img src="/assets/outputs_titanic/survival_by_class.png" />
+<img src="/assets/outputs_titanic/survival_by_cabin.png" />
 
 </div>
 
@@ -103,7 +103,7 @@ Passenger survival is compared across embarkation locations (`C`, `Q`, `S`).
 
 <div>
 
-<img src="/assets/outputs_titanic/survival_by_cabin.png" />
+<img src="/assets/outputs_titanic/survival_by_port.png" />
 
 </div>
 
