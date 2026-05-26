@@ -39,7 +39,7 @@ The project was first developed in a notebook-based workflow and then progressiv
 - Automatic chart generation with Matplotlib
 - Separation between analysis logic and execution workflow
 
-## Technologies Used
+## Technical Stack
 
 - Python
 - Pandas
