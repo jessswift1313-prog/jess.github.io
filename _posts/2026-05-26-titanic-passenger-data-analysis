@@ -1,0 +1,87 @@
+---
+title: "Titanic Passenger Data Analysis"
+excerpt: "Python-based exploratory data analysis of the Titanic passenger dataset with modular code, visualizations, and bilingual notebook reports."
+last_modified_at: 2026-05-26
+categories:
+  - projects
+tags:
+  - Python
+  - Data Analysis
+  - Pandas
+  - Data Visualization
+  - Exploratory Data Analysis
+permalink: /projects/titanic-passenger-data-analysis/
+---
+
+<div style="font-size: 0.9em;" markdown="1">
+
+A modular Python project analyzing the Titanic passenger dataset through data cleaning, exploratory data analysis, and visualization.  
+The project investigates how factors such as gender, age group, embarkation port, and passenger class influenced survival rates during the Titanic disaster.
+
+## Overview
+
+This project was developed as an introduction to practical data analysis workflows in Python.
+
+The original notebook-based analysis was progressively reorganized into a modular project structure, separating data loading, analysis logic, visualization, and execution workflow.
+
+The project focuses on:
+
+- Data loading and preprocessing with Pandas
+- Exploratory data analysis on passenger survival patterns
+- Survival rate comparison across demographic and ticket-related variables
+- Automatic generation of visual outputs
+- Modular Python code organization for reproducibility
+
+---
+
+## Features
+
+- Modular Python project structure
+- Data loading from a CSV dataset
+- Survival analysis by:
+  - Gender
+  - Age group
+  - Embarkation port
+  - Passenger class
+- Visualization of survival patterns with Matplotlib
+- Automatically generated output charts
+- English and French notebook reports for portfolio presentation
+- Reproducible execution through `main.py`
+
+---
+
+## Technical Stack
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+- GitHub Codespaces / local Python environment
+
+---
+
+## Project Structure
+
+```text
+Data-Analysis-of-Titanic-Passengers/
+├── data/
+│   └── Titanic.csv
+│
+├── outputs/
+│   ├── survival_by_cabin.png
+│   ├── survival_by_gender.png
+│   └── survival_by_port.png
+│
+├── data_loader.py
+├── gender.py
+├── children.py
+├── port.py
+├── cabin.py
+├── main.py
+│
+├── REPORT_EN.ipynb
+├── REPORT_FR.ipynb
+├── running.ipynb
+├── requirements.txt
+└── README.md
