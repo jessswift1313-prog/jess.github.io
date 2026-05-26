@@ -17,13 +17,9 @@ permalink: /projects/titanic-passenger-data-analysis/
 
 ## Titanic Passenger Data Analysis
 
----
-
 A modular Python project exploring the Titanic dataset through data cleaning, exploratory data analysis, and visualization.
 
 This project investigates how different factors such as gender, age group, embarkation port, and passenger class influenced survival rates during the Titanic disaster.
-
----
 
 ## Features
 
@@ -37,8 +33,6 @@ This project investigates how different factors such as gender, age group, embar
 - Automatic chart generation with Matplotlib
 - Separation between analysis logic and execution workflow
 
----
-
 ## Technologies Used
 
 - Python
@@ -47,13 +41,11 @@ This project investigates how different factors such as gender, age group, embar
 - Matplotlib
 - Jupyter Notebook
 
----
-
 ## Example Analyses
 
 The project compares male and female survival rates and visualizes the results using pie charts.
 
-### Survival Rate by Gender
+#### Survival Rate by Gender
 
 The analysis investigates the survival probability across different genders
 
@@ -63,7 +55,7 @@ The analysis investigates the survival probability across different genders
 
 </div>
 
-### Survival Rate by Passenger Class
+#### Survival Rate by Passenger Class
 
 The analysis investigates how ticket class influenced survival probability.
 
@@ -73,7 +65,7 @@ The analysis investigates how ticket class influenced survival probability.
 
 </div>
 
-### Survival Rate by Embarkation Port
+#### Survival Rate by Embarkation Port
 
 Passenger survival is compared across embarkation locations (`C`, `Q`, `S`).
 
@@ -82,8 +74,6 @@ Passenger survival is compared across embarkation locations (`C`, `Q`, `S`).
 <img src="/assets/outputs_titanic/survival_by_port.png" />
 
 </div>
-
----
 
 ## Purpose of the Project
 
@@ -95,8 +85,6 @@ This project was created as a practice exercise in:
 - Modular programming
 
 The original notebook-based workflow was progressively refactored into reusable Python modules to improve code readability, maintainability and reproducibility.
-
----
 
 ## 🔗 GitHub Repository
 
