@@ -15,8 +15,6 @@ permalink: /projects/titanic-passenger-data-analysis/
 
 <div style="font-size: 0.8em;" markdown="1">
 
-# Titanic Passenger Data Analysis
-
 A modular Python project exploring the Titanic dataset through data cleaning, exploratory data analysis, and visualization.
 
 ## Overview
