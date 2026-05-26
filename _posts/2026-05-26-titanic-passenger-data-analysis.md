@@ -25,30 +25,6 @@ This project investigates how different factors such as gender, age group, embar
 
 ---
 
-# Project Structure
-
-Titanic/
-├── data/
-│   └── Titanic.csv
-│
-├── outputs/
-│   ├── survival_by_cabin.png
-│   ├── survival_by_gender.png
-│   └── survival_by_port.png
-│
-├── data_loader.py
-├── gender.py
-├── children.py
-├── port.py
-├── cabin.py
-├── main.py
-│
-├── REPORT_EN.ipynb
-├── REPORT_FR.ipynb
-└── running.ipynb
-
----
-
 # Features
 
 - Modular Python project structure
@@ -122,8 +98,5 @@ The original notebook-based workflow was progressively refactored into reusable 
 
 ---
 
-# Author
-
-Sichao Jing  
-Mathematics & Economics Student — Université Paris-Saclay
-
+# 🔗 GitHub RepositoryPermalink
+![View on GitHub]("https://github.com/jessswift1313-prog/Titanic-Passenger-Data-Analysis")
