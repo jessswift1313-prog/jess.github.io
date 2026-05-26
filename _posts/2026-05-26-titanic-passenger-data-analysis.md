@@ -19,7 +19,13 @@ permalink: /projects/titanic-passenger-data-analysis/
 
 A modular Python project exploring the Titanic dataset through data cleaning, exploratory data analysis, and visualization.
 
-This project investigates how different factors such as gender, age group, embarkation port, and passenger class influenced survival rates during the Titanic disaster.
+## Overview
+
+This project analyzes passenger information from the Titanic dataset to explore the factors that influenced survival outcomes.
+
+The analysis focuses on variables such as gender, age group, embarkation port, and passenger class. It combines data preprocessing, exploratory analysis, and visualization to identify patterns in survival probability.
+
+The project was first developed in a notebook-based workflow and then progressively refactored into reusable Python modules to improve readability, maintainability, and reproducibility.
 
 ## Features
 
@@ -43,11 +49,11 @@ This project investigates how different factors such as gender, age group, embar
 
 ## Example Analyses
 
-The project compares male and female survival rates and visualizes the results using pie charts.
+The project compares survival rates across different passenger groups and visualizes the results using pie charts.
 
 #### Survival Rate by Gender
 
-The analysis investigates the survival probability across different genders
+The analysis investigates survival probability across different genders.
 
 <div>
 
@@ -75,19 +81,8 @@ Passenger survival is compared across embarkation locations (`C`, `Q`, `S`).
 
 </div>
 
-## Purpose of the Project
-
-This project was created as a practice exercise in:
-
-- Exploratory data analysis (EDA)
-- Python project organization
-- Data visualization
-- Modular programming
-
-The original notebook-based workflow was progressively refactored into reusable Python modules to improve code readability, maintainability and reproducibility.
-
 ## 🔗 GitHub Repository
 
-[View on GitHub]("https://github.com/jessswift1313-prog/Titanic-Passenger-Data-Analysis")
+[View on GitHub](https://github.com/jessswift1313-prog/Titanic-Passenger-Data-Analysis)
 
 </div>
