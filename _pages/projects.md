@@ -10,13 +10,9 @@ author_profile: true
 
 C++ implementation of image processing and computer vision algorithms.
 
-<div style="display: flex; gap: 10px; justify-content: space-between;">
+<div align="center">
 
-  <img src="images/Willis.512.jpg" width="32%" />
-
-  <img src="seuillage/Willis.512.png" width="32%" />
-
-  <img src="superpixel/correction/Willis.512.jpg" width="32%" />
+<img src="/assets/outputs_image-analysis/image-analysis.png" />
 
 </div>
 

@@ -13,7 +13,7 @@ tags:
 permalink: /projects/titanic-passenger-data-analysis/
 ---
 
-<div style="font-size: 0.7em;" markdown="1">
+<div style="font-size: 0.8em;" markdown="1">
 
 # Titanic Passenger Data Analysis
 
@@ -79,28 +79,31 @@ Titanic/
 
 ## Survival Rate by Gender
 
-The project compares male and female survival rates and visualizes the results using bar charts.
+The project compares male and female survival rates and visualizes the results using pie charts.
+
+<div>
+
+<img src="/assets/outputs_titanic/survival_by_gender.png" />
+
+</div>
 
 ## Survival Rate by Passenger Class
 
 The analysis investigates how ticket class influenced survival probability.
 
+<div>
+
+<img src="/assets/outputs_titanic/survival_by_class.png" />
+
+</div>
+
 ## Survival Rate by Embarkation Port
 
 Passenger survival is compared across embarkation locations (`C`, `Q`, `S`).
 
-<div align="center">
+<div>
 
-<img src="/assets/outputs_titanic/survival_by_gender.png" width="45%" />
-<img src="/assets/outputs_titanic/survival_by_port.png" width="45%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="/assets/outputs_titanic/survival_by_cabin.png" width="55%" />
+<img src="/assets/outputs_titanic/survival_by_cabin.png" />
 
 </div>
 

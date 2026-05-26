@@ -11,7 +11,7 @@ tags:
 permalink: /projects/image-analysis-in-cpp/
 ---
 
-<div style="font-size: 0.9em;" markdown="1">
+<div style="font-size: 0.8m;" markdown="1">
 
 A C++ implementation of fundamental image processing and analysis algorithms.  
 The project focuses on low-level image representation, convolution-based filtering, and classical computer vision techniques.
