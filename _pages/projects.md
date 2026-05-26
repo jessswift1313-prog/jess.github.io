@@ -18,16 +18,6 @@ C++ implementation of image processing and computer vision algorithms.
 
 ---
 
-## [Titanic Passenger Data Analysis](/projects/titanic-passenger-data-analysis/)
-
-Python implementation of data analysis and visualisation.
-
-<!-- <div align="center">
-
-<img src="/assets/outputs_titanic/survival_by_gender.png" width = "49%"/>
-<img src="/assets/outputs_titanic/survival_by_port.png" width = "49%"/>
-
-</div> -->
 <div style="
   margin-bottom: 2.5rem;
   padding: 1.5rem;
