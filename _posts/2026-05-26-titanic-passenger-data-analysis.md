@@ -98,5 +98,5 @@ The original notebook-based workflow was progressively refactored into reusable 
 
 ---
 
-# 🔗 GitHub RepositoryPermalink
+## 🔗 GitHub RepositoryPermalink
 ![View on GitHub]("https://github.com/jessswift1313-prog/Titanic-Passenger-Data-Analysis")
