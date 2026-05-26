@@ -24,8 +24,8 @@ Python implementation of data analysis and visualisation.
 
 <div align="center">
 
-<img src="/assets/outputs_titanic/survival_by_gender.png" width="45%" />
-<img src="/assets/outputs_titanic/survival_by_port.png" width="45%" />
+<img src="/assets/outputs_titanic/survival_by_gender.png" width = "49%"/>
+<img src="/assets/outputs_titanic/survival_by_port.png" width = "49%"/>
 
 </div>
 
