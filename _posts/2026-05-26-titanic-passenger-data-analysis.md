@@ -77,9 +77,11 @@ Titanic/
 
 # Example Analyses
 
+The project compares male and female survival rates and visualizes the results using pie charts.
+
 ## Survival Rate by Gender
 
-The project compares male and female survival rates and visualizes the results using pie charts.
+The analysis investigates the survival probability across different genders
 
 <div>
 
