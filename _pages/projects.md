@@ -12,7 +12,8 @@ C++ implementation of image processing and computer vision algorithms.
 
 ---
 
-## [我的第二个项目](/projects/project2/)
-这是第二个项目的简介...
+## [Titanic Passenger Data Analysis](/projects/titanic-passenger-data-analysis/)
+
+Python implementation of data analysis and visualisation.
 
 ---
