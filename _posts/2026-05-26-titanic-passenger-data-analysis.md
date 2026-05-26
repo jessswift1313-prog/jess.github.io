@@ -15,7 +15,7 @@ permalink: /projects/titanic-passenger-data-analysis/
 
 <div style="font-size: 0.8em;" markdown="1">
 
-# Titanic Passenger Data Analysis
+## Titanic Passenger Data Analysis
 
 ---
 
@@ -25,7 +25,7 @@ This project investigates how different factors such as gender, age group, embar
 
 ---
 
-# Features
+## Features
 
 - Modular Python project structure
 - Data loading and preprocessing
@@ -39,7 +39,7 @@ This project investigates how different factors such as gender, age group, embar
 
 ---
 
-# Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
@@ -49,11 +49,11 @@ This project investigates how different factors such as gender, age group, embar
 
 ---
 
-# Example Analyses
+## Example Analyses
 
 The project compares male and female survival rates and visualizes the results using pie charts.
 
-## Survival Rate by Gender
+### Survival Rate by Gender
 
 The analysis investigates the survival probability across different genders
 
@@ -63,7 +63,7 @@ The analysis investigates the survival probability across different genders
 
 </div>
 
-## Survival Rate by Passenger Class
+### Survival Rate by Passenger Class
 
 The analysis investigates how ticket class influenced survival probability.
 
@@ -73,7 +73,7 @@ The analysis investigates how ticket class influenced survival probability.
 
 </div>
 
-## Survival Rate by Embarkation Port
+### Survival Rate by Embarkation Port
 
 Passenger survival is compared across embarkation locations (`C`, `Q`, `S`).
 
@@ -85,7 +85,7 @@ Passenger survival is compared across embarkation locations (`C`, `Q`, `S`).
 
 ---
 
-# Purpose of the Project
+## Purpose of the Project
 
 This project was created as a practice exercise in:
 
@@ -98,7 +98,7 @@ The original notebook-based workflow was progressively refactored into reusable 
 
 ---
 
-## 🔗 GitHub RepositoryPermalink
+## 🔗 GitHub Repository
 
 [View on GitHub]("https://github.com/jessswift1313-prog/Titanic-Passenger-Data-Analysis")
 
