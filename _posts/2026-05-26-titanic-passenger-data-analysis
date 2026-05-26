@@ -15,56 +15,34 @@ permalink: /projects/titanic-passenger-data-analysis/
 
 <div style="font-size: 0.9em;" markdown="1">
 
-A modular Python project analyzing the Titanic passenger dataset through data cleaning, exploratory data analysis, and visualization.  
-The project investigates how factors such as gender, age group, embarkation port, and passenger class influenced survival rates during the Titanic disaster.
+---
+jupytext:
+  formats: md:myst
+  text_representation:
+    extension: .md
+    format_name: myst
+    format_version: 0.13
+    jupytext_version: 1.20.0
+kernelspec:
+  name: python3
+  display_name: Python 3 (ipykernel)
+  language: python
+---
 
-## Overview
-
-This project was developed as an introduction to practical data analysis workflows in Python.
-
-The original notebook-based analysis was progressively reorganized into a modular project structure, separating data loading, analysis logic, visualization, and execution workflow.
-
-The project focuses on:
-
-- Data loading and preprocessing with Pandas
-- Exploratory data analysis on passenger survival patterns
-- Survival rate comparison across demographic and ticket-related variables
-- Automatic generation of visual outputs
-- Modular Python code organization for reproducibility
+# Titanic Passenger Data Analysis
 
 ---
 
-## Features
+A modular Python project exploring the Titanic dataset through data cleaning, exploratory data analysis, and visualization.
 
-- Modular Python project structure
-- Data loading from a CSV dataset
-- Survival analysis by:
-  - Gender
-  - Age group
-  - Embarkation port
-  - Passenger class
-- Visualization of survival patterns with Matplotlib
-- Automatically generated output charts
-- English and French notebook reports for portfolio presentation
-- Reproducible execution through `main.py`
+This project investigates how different factors such as gender, age group, embarkation port, and passenger class influenced survival rates during the Titanic disaster.
 
 ---
 
-## Technical Stack
-
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Jupyter Notebook
-- GitHub Codespaces / local Python environment
-
----
-
-## Project Structure
+# Project Structure
 
 ```text
-Data-Analysis-of-Titanic-Passengers/
+Titanic/
 ├── data/
 │   └── Titanic.csv
 │
@@ -82,6 +60,89 @@ Data-Analysis-of-Titanic-Passengers/
 │
 ├── REPORT_EN.ipynb
 ├── REPORT_FR.ipynb
-├── running.ipynb
-├── requirements.txt
-└── README.md
+└── running.ipynb
+```
+
+---
+
+# Features
+
+- Modular Python project structure
+- Data loading and preprocessing
+- Survival analysis by:
+  - Gender
+  - Age group
+  - Embarkation port
+  - Passenger class
+- Automatic chart generation with Matplotlib
+- Separation between analysis logic and execution workflow
+
+---
+
+# Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+
+---
+
+# Example Analyses
+
+## Survival Rate by Gender
+
+The project compares male and female survival rates and visualizes the results using bar charts.
+
+## Survival Rate by Passenger Class
+
+The analysis investigates how ticket class influenced survival probability.
+
+## Survival Rate by Embarkation Port
+
+Passenger survival is compared across embarkation locations (`C`, `Q`, `S`).
+
+---
+
+# Output
+
+Generated visualizations are automatically saved inside the `outputs/` directory.
+
+Example:
+
+<div align="center">
+
+<img src="outputs_titanic/survival_by_gender.png" width="45%" />
+<img src="outputs_titanic/survival_by_port.png" width="45%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="outputs_titanic/survival_by_cabin.png" width="55%" />
+
+</div>
+
+---
+
+# Purpose of the Project
+
+This project was created as a practice exercise in:
+
+- Exploratory data analysis (EDA)
+- Python project organization
+- Data visualization
+- Modular programming
+
+The original notebook-based workflow was progressively refactored into reusable Python modules to improve code readability, maintainability and reproducibility.
+
+---
+
+# Author
+
+Sichao Jing  
+Mathematics & Economics Student — Université Paris-Saclay
+
