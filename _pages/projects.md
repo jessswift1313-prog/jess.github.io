@@ -12,7 +12,7 @@ C++ implementation of image processing and computer vision algorithms.
 
 ---
 
-## [Titanic Passenger Data Analysis](/projects/titanic-passenger-data-analysis/)
+## [Titanic Passenger Data Analysis](https://jessswift1313-prog.github.io/projects/titanic-passenger-data-analysis/)
 
 Python implementation of data analysis and visualisation.
 
