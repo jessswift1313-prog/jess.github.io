@@ -13,21 +13,7 @@ tags:
 permalink: /projects/titanic-passenger-data-analysis/
 ---
 
-<div style="font-size: 0.9em;" markdown="1">
-
----
-jupytext:
-  formats: md:myst
-  text_representation:
-    extension: .md
-    format_name: myst
-    format_version: 0.13
-    jupytext_version: 1.20.0
-kernelspec:
-  name: python3
-  display_name: Python 3 (ipykernel)
-  language: python
----
+<div style="font-size: 0.7em;" markdown="1">
 
 # Titanic Passenger Data Analysis
 
