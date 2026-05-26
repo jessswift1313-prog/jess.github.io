@@ -105,8 +105,8 @@ Passenger survival is compared across embarkation locations (`C`, `Q`, `S`).
 
 <div align="center">
 
-<img src="assets/outputs_titanic/survival_by_gender.png" width="45%" />
-<img src="assets/outputs_titanic/survival_by_port.png" width="45%" />
+<img src="/assets/outputs_titanic/survival_by_gender.png" width="45%" />
+<img src="/assets/outputs_titanic/survival_by_port.png" width="45%" />
 
 </div>
 
@@ -114,7 +114,7 @@ Passenger survival is compared across embarkation locations (`C`, `Q`, `S`).
 
 <div align="center">
 
-<img src="assets/outputs_titanic/survival_by_cabin.png" width="55%" />
+<img src="/assets/outputs_titanic/survival_by_cabin.png" width="55%" />
 
 </div>
 
