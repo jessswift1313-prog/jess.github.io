@@ -103,14 +103,6 @@ The analysis investigates how ticket class influenced survival probability.
 
 Passenger survival is compared across embarkation locations (`C`, `Q`, `S`).
 
----
-
-# Output
-
-Generated visualizations are automatically saved inside the `outputs/` directory.
-
-Example:
-
 <div align="center">
 
 <img src="assets/outputs_titanic/survival_by_gender.png" width="45%" />
